@@ -1,0 +1,15 @@
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\bin\Debug\net7.0\FindIndex.exe
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\bin\Debug\net7.0\FindIndex.deps.json
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\bin\Debug\net7.0\FindIndex.runtimeconfig.json
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\bin\Debug\net7.0\FindIndex.dll
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\bin\Debug\net7.0\FindIndex.pdb
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.csproj.AssemblyReference.cache
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.AssemblyInfoInputs.cache
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.AssemblyInfo.cs
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.csproj.CoreCompileInputs.cache
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.dll
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\refint\FindIndex.dll
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.pdb
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\FindIndex.genruntimeconfig.cache
+D:\DSA 60 Days\Day1\Find Char Index\FindIndex\FindIndex\obj\Debug\net7.0\ref\FindIndex.dll
