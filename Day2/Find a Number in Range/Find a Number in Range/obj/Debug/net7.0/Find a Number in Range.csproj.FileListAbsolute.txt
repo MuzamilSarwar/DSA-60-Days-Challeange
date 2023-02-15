@@ -1,0 +1,15 @@
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\bin\Debug\net7.0\Find a Number in Range.exe
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\bin\Debug\net7.0\Find a Number in Range.deps.json
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\bin\Debug\net7.0\Find a Number in Range.runtimeconfig.json
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\bin\Debug\net7.0\Find a Number in Range.dll
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\bin\Debug\net7.0\Find a Number in Range.pdb
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.csproj.AssemblyReference.cache
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.AssemblyInfoInputs.cache
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.AssemblyInfo.cs
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.csproj.CoreCompileInputs.cache
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.dll
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\refint\Find a Number in Range.dll
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.pdb
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\Find a Number in Range.genruntimeconfig.cache
+D:\DSA-60-Days-Challeange\Day2\Find a Number in Range\Find a Number in Range\obj\Debug\net7.0\ref\Find a Number in Range.dll
